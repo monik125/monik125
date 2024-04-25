@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @monik125
-- 👀 I’m interested in python,Backend using python,Html, Graphics Design 
-- 🌱 I’m currently learning Django,Restframework,python,Html 
-- 💞️ I’m looking to collaborate on python,backend,Html
-- 📫 monikpatel125@gmail.com
+Monik, a back-end developer, excels in creating intricate features for SARAS-3D's STEM software and developing the firm's backend architecture. Experienced in leveraging AWS services for system functionality, Monik has also contributed significantly to data and content management. Additionally, they bring across digital marketing skills from their stint at TECHINQURI, enhancing their ability to understand and cater to the end-user's needs.
